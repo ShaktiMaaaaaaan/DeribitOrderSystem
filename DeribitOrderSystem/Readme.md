@@ -23,7 +23,7 @@ Steps
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/DeribitOrderSystem.git
+git clone https://github.com/ShaktiMaaaaaaan/DeribitOrderSystem.git
 Configure the project in Visual Studio or another IDE of your choice.
 
 Install Dependencies:
