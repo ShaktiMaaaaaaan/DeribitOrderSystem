@@ -1,0 +1,15 @@
+{
+  "API": {
+    "BaseURL": "https://test.deribit.com/api/v2/",
+    "Key": "JHpBp6vD",
+    "Secret": "RCfsOhA03qBycyRe2uPCQ38_zGad98cfA972Sfdi8GM"
+  },
+  "Endpoints": {
+    "Auth": "public/auth",
+    "PlaceOrder": "private/buy",
+    "CancelOrder": "private/cancel",
+    "ModifyOrder": "private/edit",
+    "GetOrderbook": "public/get_order_book",
+    "GetPositions": "private/get_position"
+  }
+}
