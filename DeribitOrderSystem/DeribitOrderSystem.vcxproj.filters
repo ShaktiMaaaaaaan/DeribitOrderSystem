@@ -29,5 +29,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config.json" />
+    <None Include="Readme.md" />
   </ItemGroup>
 </Project>
